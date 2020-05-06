@@ -11,7 +11,7 @@ namespace Polymorphism
 
         public virtual void Print()
         {
-            Console.WriteLine("Printing Error");
+            Console.WriteLine("Printing");
         }
         static void Main(string[] args)
         {
@@ -32,8 +32,7 @@ namespace Polymorphism
                 printer = new Canon();
             else if (nomorPrinter == 3)
                 printer = new LasjerJet();
-            else
-
+            
             printer.Show();
             printer.Print();
 
