@@ -2,7 +2,7 @@
 
 namespace Polymorphism
 {
-    class Program
+    public class PinterWindows
     {
         static void Main(string[] args)
         {
