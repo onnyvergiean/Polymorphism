@@ -11,7 +11,7 @@ namespace Polymorphism
 
         public virtual void Print()
         {
-            Console.WriteLine("Printing");
+            Console.WriteLine("Printing Error");
         }
         static void Main(string[] args)
         {
