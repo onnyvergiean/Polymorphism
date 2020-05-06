@@ -1,0 +1,13 @@
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csprojAssemblyReference.cache
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+I:\AMIKOM\sem 2\Pemrograman\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache
